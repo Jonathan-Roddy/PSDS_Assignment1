@@ -1,4 +1,4 @@
-# PSDS_Assignment1
+# PSDS_Assignment 1 2022
 
 1.	Write a C++ programme to multiply opposite values in an array of integers and store the answer in the same positions in the array. 
 The solution must be arrived at using recursion. Note, the introduction of a second array to aid the reversal is not permitted. 
